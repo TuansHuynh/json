@@ -1,0 +1,118 @@
+{
+  "Phone": [
+    {
+      "name": "OPPO Find N3 5G 16GB/512GB",
+      "image": "Image/Phone/Oppo Find N3.jpg",
+      "price": 41990000,
+      "oldPrice": 44990000,
+      "discount": "-6%"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold6 5G",
+      "image": "Image/Phone/Z Fold 6.jpg",
+      "price": 41990000,
+      "oldPrice": 43990000,
+      "discount": "-4%"
+    },
+    {
+      "name": "Xiaomi 14 Ultra 5G 16GB/512GB",
+      "image": "Image/Phone/Xiaomi 14 ultra.jpg",
+      "price": 29990000,
+      "oldPrice": 32990000,
+      "discount": "-9%"
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra 5G",
+      "image": "Image/Phone/S24 Ultra.jpg",
+      "price": 29990000,
+      "oldPrice": 33990000,
+      "discount": "-11%"
+    },
+    {
+      "name": "iPhone 15 Pro Max Carbon White 8Gb/1Tb",
+      "image": "Image/Phone/Iphone 15.jpg",
+      "price": 29490000,
+      "oldPrice": 34990000,
+      "discount": "-15%"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold5 5G 12GB/256GB",
+      "image": "Image/Phone/Z Fold 5.jpg",
+      "price": 27990000,
+      "oldPrice": 40990000,
+      "discount": "-31%"
+    },
+    {
+      "name": "iPhone 14 Pro Max Titan Purple 8Gb/1Tb",
+      "image": "Image/Phone/Iphone 14.jpg",
+      "price": 26990000,
+      "oldPrice": 29490000,
+      "discount": "-8%"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip6 5G 12Gb/256Gb",
+      "image": "Image/Phone/Z Flip 6.jpg",
+      "price": 26990000,
+      "oldPrice": 28990000,
+      "discount": "-6%"
+    }
+  ],
+  "Laptop": [
+    {
+      "name": "MSI Creator 16 AI Studio",
+      "image": "Image/Laptop/MSI Creator 16.jpg",
+      "price": 101990000,
+      "oldPrice": 109990000,
+      "discount": "-7%"
+    },
+    {
+      "name": "Lenovo Gaming Legion Pro 7",
+      "image": "Image/Laptop/Lenovo Legion Pro 7.jpg",
+      "price": 96990000,
+      "oldPrice": 106990000,
+      "discount": "-9%"
+    },
+    {
+      "name": "Dell Precision 16 5680 i9 13900H",
+      "image": "Image/Laptop/Dell Precision 16.jpg",
+      "price": 95890000,
+      "oldPrice": 105290000,
+      "discount": "-8%"
+    },
+    {
+      "name": "Asus Gaming ROG Strix SCAR 18",
+      "image": "Image/Laptop/Asus ROG Strix Scar 18.jpg",
+      "price": 91990000,
+      "oldPrice": 117990000,
+      "discount": "-22%"
+    },
+    {
+      "name": "MacBook Pro 14 inch M3 Max",
+      "image": "Image/Laptop/Macbook Pro.jpg",
+      "price": 79590000,
+      "oldPrice": 79990000,
+      "discount": null
+    },
+    {
+      "name": "MSI Gaming Stealth 18 Mercedes",
+      "image": "Image/Laptop/MSI Stealth 18 Mercedes.jpg",
+      "price": 102990000,
+      "oldPrice": 99990000,
+      "discount": null
+    },
+    {
+      "name": "MSI Creator Z17 HX Studio",
+      "image": "Image/Laptop/MSI Creator Z17 HX Studio.jpg",
+      "price": 66490000,
+      "oldPrice": 71990000,
+      "discount": "-7%"
+    },
+    {
+      "name": "Asus Gaming ROG Strix SCAR 16",
+      "image": "Image/Laptop/Asus ROG Strix Scar 16.jpg",
+      "price": 64590000,
+      "oldPrice": 86990000,
+      "discount": "-25%"
+    }
+  ]
+}
